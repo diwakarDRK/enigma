@@ -1,7 +1,7 @@
 # enigma
 game based on pygame
 
-Required Software
+Required Software:
 1) pygame 3.4
 2) windows os (7 or above)
 3) 32 bit computer
