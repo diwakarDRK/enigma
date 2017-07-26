@@ -8,6 +8,7 @@ Required Software:
 4)Run the game.py file to execute
 
 Rules to play :
+
 1) TOTAL THREE LIVES
 2) AVOID OBSTACLES COLLISION REDUCES THE LIFE  BY ONE
 3) THREE FODDERS IN FORM OF BALLS OF DIFFERENT COLOURS, RED,GREEN,BLUE
@@ -16,5 +17,6 @@ Rules to play :
 6) FODDER 		DURATION	 	   POINTS
     RED			   1 sec				   10
     GREEN		   2 sec  				    5
-    BLUE                   3 sec				    2
+    BLUE           3 sec				    2
+    
 7) EATING FODDERS INCREASES SCORE OF THE PLAYER
